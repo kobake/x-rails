@@ -1,0 +1,2 @@
+# x-rails
+Rails sample
